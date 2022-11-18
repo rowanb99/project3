@@ -1,0 +1,25 @@
+# ninja log v5
+0	368	1668806530749710413	CMakeFiles/project3.dir/BlockComment_Automaton.cpp.o	88545879a0fae95d
+0	379	1668806530761710796	CMakeFiles/project3.dir/ColonDashAutomaton.cpp.o	c672390c1d9bdc4d
+0	380	1668806530761710796	CMakeFiles/project3.dir/AddAutomaton.cpp.o	cc0f89a280c68f67
+0	385	1668806530765710923	CMakeFiles/project3.dir/CommAutomaton.cpp.o	97d2975d8e1cc505
+0	385	1668806530765710923	CMakeFiles/project3.dir/ColonAutomaton.cpp.o	9548ca2a56d14f54
+369	753	1668806531133722669	CMakeFiles/project3.dir/EOF_Automaton.cpp.o	64a24daa1c95ada
+1	759	1668806531141722925	CMakeFiles/project3.dir/DatalogProgram.cpp.o	70a18c59da6d8e4e
+385	765	1668806531145723052	CMakeFiles/project3.dir/Left_ParenAutomaton.cpp.o	1034302d17534d93
+379	768	1668806531149723180	CMakeFiles/project3.dir/FactsAutomaton.cpp.o	b6b26ac6cbea1570
+380	776	1668806531157723435	CMakeFiles/project3.dir/ID_Automaton.cpp.o	e1b290f445a9d4f
+385	1000	1668806531381730587	CMakeFiles/project3.dir/Lexer.cpp.o	cbe79b2b724271c1
+753	1138	1668806531517734930	CMakeFiles/project3.dir/LineCommentAutomaton.cpp.o	c3f98f901cfff13b
+765	1146	1668806531525735185	CMakeFiles/project3.dir/MultiplyAutomaton.cpp.o	1a668aca6a40823b
+776	1149	1668806531529735313	CMakeFiles/project3.dir/PeriodAutomaton.cpp.o	510b1cdd55cf1a1d
+759	1278	1668806531657739399	CMakeFiles/project3.dir/main.cpp.o	217c5caea56aea9
+1000	1306	1668806531685740293	CMakeFiles/project3.dir/Q_markAutomaton.cpp.o	ae5d5e39626d906c
+1149	1531	1668806531913747573	CMakeFiles/project3.dir/RulesAutomaton.cpp.o	ab8ccbbb0cf21d94
+1146	1537	1668806531917747701	CMakeFiles/project3.dir/Right_ParenAutomaton.cpp.o	2c08a052bf9f0916
+1138	1538	1668806531917747701	CMakeFiles/project3.dir/QueriesAutomaton.cpp.o	8ddbaa8b5358da43
+1278	1550	1668806531929748084	CMakeFiles/project3.dir/SchemesAutomaton.cpp.o	3a66ea4b8e009cfe
+768	1594	1668806531973749489	CMakeFiles/project3.dir/Parser.cpp.o	3afca555d97de9d6
+1306	1617	1668806531997750255	CMakeFiles/project3.dir/StringAutomaton.cpp.o	47cf8078a9a7d56c
+1532	1776	1668806532157755366	CMakeFiles/project3.dir/Token.cpp.o	6c0339efa6e8ec71
+1776	1853	1668806532233757793	project3	f0ab25ab8667a0ca

@@ -1,0 +1,3 @@
+/media/rowanb99/KDE Storage/git/cs236/project3/cmake-build-debug/CMakeFiles/project3.dir
+/media/rowanb99/KDE Storage/git/cs236/project3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/rowanb99/KDE Storage/git/cs236/project3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
