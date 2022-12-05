@@ -5,6 +5,7 @@ using namespace std;
 
 #include "Lexer.h"
 #include "Parser.h"
+#include "Interpreter.h"
 
 int main(int argc, char** argv) {
 
@@ -31,6 +32,10 @@ int main(int argc, char** argv) {
     lexer->Run(fileInputString);
     //cout << lexer->lexerToString(); //Use this and use in14.txt as arg if concerned that lexer is broke
     Parser* parser = new Parser(lexer->lexerResults());
+    Interpreter* interpreter = new Interpreter(parser);
+    interpreter->InterpretSchemes();
+    interpreter->InterpretFacts();
+    interpreter->InterpretQueries();
     //My stuff ends
 
 

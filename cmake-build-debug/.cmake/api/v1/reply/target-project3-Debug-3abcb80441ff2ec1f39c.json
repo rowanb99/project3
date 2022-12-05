@@ -10,8 +10,7 @@
 	{
 		"commands" : 
 		[
-			"add_executable",
-			"include_directories"
+			"add_executable"
 		],
 		"files" : 
 		[
@@ -25,13 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 6,
+				"line" : 11,
 				"parent" : 0
 			}
 		]
@@ -42,14 +35,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
-				}
-			],
-			"includes" : 
-			[
-				{
-					"backtrace" : 2,
-					"path" : "/media/rowanb99/KDE Storage/git/cs236/project3/."
+					"fragment" : "-g -fdiagnostics-color=always"
 				}
 			],
 			"language" : "CXX",
@@ -76,16 +62,17 @@
 				21,
 				23,
 				25,
-				26,
-				28,
-				30,
-				32,
-				34,
-				36,
-				38,
-				40,
-				42,
-				44
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47
 			]
 		}
 	],
@@ -131,16 +118,17 @@
 				21,
 				23,
 				25,
-				26,
-				28,
-				30,
-				32,
-				34,
-				36,
-				38,
-				40,
-				42,
-				44
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47
 			]
 		},
 		{
@@ -160,16 +148,17 @@
 				20,
 				22,
 				24,
-				27,
-				29,
-				31,
-				33,
-				35,
-				37,
-				39,
-				41,
-				43,
-				45
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46
 			]
 		}
 	],
@@ -282,6 +271,17 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "Interpreter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Interpreter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "Left_ParenAutomaton.cpp",
 			"sourceGroupIndex" : 0
 		},
@@ -311,12 +311,6 @@
 			"backtrace" : 1,
 			"path" : "LineCommentAutomaton.h",
 			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
-			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
@@ -427,6 +421,12 @@
 			"backtrace" : 1,
 			"path" : "Token.h",
 			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
 		}
 	],
 	"type" : "EXECUTABLE"
